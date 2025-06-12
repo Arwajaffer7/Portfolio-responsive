@@ -1,0 +1,75 @@
+body {
+  background-color: #1e1e2f;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar {
+  background-color: #1e1e2f;
+}
+
+.logo-dot {
+  width: 10px;
+  height: 10px;
+  background-color: #fbb034;
+  border-radius: 50%;
+}
+
+.nav-link {
+  color: #ccc;
+}
+
+.nav-link.active {
+  color: white;
+  font-weight: bold;
+  border-bottom: 2px solid #fbb034;
+}
+
+.hero-section {
+  padding: 60px 0;
+  position: relative;
+}
+
+.intro-text {
+  font-size: 1.5rem;
+  color: #aaa;
+}
+
+.display-4 {
+  color: white;
+}
+
+.line {
+  width: 60px;
+  height: 4px;
+  background-color: #fbb034;
+}
+
+.lead {
+  font-size: 1rem;
+  color: #ccc;
+}
+
+.profile-img {
+  max-width: 300px;
+  border-radius: 10px;
+}
+
+.services-box {
+  max-width: 400px;
+  margin: auto;
+}
+
+.services-box h5 {
+  color: #fff;
+  font-weight: 600;
+}
+
+.services-box p {
+  color: #bbb;
+}
+
+.social-icons i {
+  color: #fbb034;
+  font-size: 1.2rem;
+}
